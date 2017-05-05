@@ -118,7 +118,8 @@
 										<div class="col-sm-6 col-xs-12">
 											<div class="footer_copyrights--item">
 												<div class="footer_copyrights--logo">
-													<a href="#"><img src="assets\images\design\logo-footer.png" alt="" style="width: 150px"></a>
+													<a href="#"> 	RecapitaFinance
+												<!-- 	<img src="assets\images\design\logo-footer.png" alt="" style="width: 150px">  --></a>
 												</div>
 											</div>
 										</div>
