@@ -43,7 +43,9 @@
 															<i class="contact_item--icon icons8-phone"></i>
 															<h3 class="contact_item--title">Call Us</h3>
 															<p class="contact_item--text">
-																Call us on <strong>0 (855) 233-5385</strong>,
+																Call us on 
+																<strong>+91 (992) 009-0401
+																</strong>
 																<br> Monday - Friday, 8am - 7pm
 															</p>
 														</div>
@@ -53,7 +55,7 @@
 															<i class="contact_item--icon icons8-message"></i>
 															<h3 class="contact_item--title">Drop a Line</h3>
 															<p class="contact_item--text">
-																Drop us a line at <strong>info@recapitafinace.com</strong>,
+																Drop us mail at <strong>ca.amitjain101@gmail.com</strong>,
 																<br> and we’ll get back soon.
 															</p>
 														</div>
@@ -63,9 +65,8 @@
 															<i class="contact_item--icon icons8-geo-fence"></i>
 															<h3 class="contact_item--title">Visit Us</h3>
 															<p class="contact_item--text">
-																Come visit us at <strong>Indore</strong>,
-																<br>
-																<strong>MP, </strong> 452001
+																Come visit us at <br><strong> REGD. ADDRESS: <br>47 A - AMALTAS PHASE I, <br>CHUNA BHATTI, KOLAR ROAD,<br> BHOPAL-462016 [M.P.] </strong><br>
+  Tel : (91) 9920090401 <br> Landline: 0755- 2424962																 
 															</p>
 														</div>
 													</li>
@@ -112,15 +113,7 @@
 																</div>
 															</div>
 															<div class="row">
-																<div class="col-md-9 col-xs-12">
-																	<div class="contact_form--files">
-																		<span class="button -menu_size -picton_blue -bordered">
-																			<span class="button--inner">Attach File</span>
-																			<input type="file" name="file" class="contact_form--file_input">
-																		</span>
-																		<div class="contact_form--files_list"></div>
-																	</div>
-																</div>
+																 
 																<div class="col-md-3 col-xs-12">
 																	<div class="contact_form--submit">
 																		<button class="button -menu_size -waikawa_gray -bordered" type="submit"><span class="button--inner">Send Request</span></button>
@@ -634,10 +627,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="map js-map">
-					<button type="button" class="map--opener js-map--opener"><span>Show Map</span></button>
-					<div class="map--container js-map--container"></div>
-				</div>
+				 
 </div>
 <?php 
  include 'footer.php'

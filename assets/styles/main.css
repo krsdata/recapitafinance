@@ -5342,7 +5342,7 @@ li[aria-disabled="true"] {
 }
 .topbar .select_language {
   float: left;
-  margin: 0 35px 0 0;
+  margin: 0 5px 0 0;
 }
 .topbar .follow_us {
   float: left;
@@ -5816,11 +5816,18 @@ li[aria-disabled="true"] {
   text-align: left;
 }
 .section--description {
-  font-size: 20px;
-  line-height: 30px;
-  color: #9b9b9b;
-  text-align: center;
+  font-size: 16px;
+  line-height: 20px;
+  color: #9b9b9b; 
+  text-align: left;
   margin: 13px 0 0;
+}
+p.exp {
+    /* font-size: 20px; */
+    line-height: 20px;
+    color: #9b9b9b;
+    /* text-align: center; */
+    margin: 10px 75px 0;
 }
 .section--description.-left {
   text-align: left;
@@ -8083,7 +8090,7 @@ li[aria-disabled="true"] {
 .header_contacts--item {
   display: inline-block;
   text-align: left;
-  margin: 0 0 0 40px;
+  margin: 0 0 0 30px;
   vertical-align: middle;
 }
 .header_contacts--item:first-child {
@@ -8091,7 +8098,7 @@ li[aria-disabled="true"] {
 }
 .contact_mini {
   position: relative;
-  padding: 0 0 0 50px;
+  padding: 0 0 0 40px;
 }
 .contact_mini--icon {
   font-size: 34px;
@@ -9282,6 +9289,7 @@ li[aria-disabled="true"] {
   color: #969696;
   line-height: 23px;
   margin: 15px 0 0;
+  text-align: justify;
 }
 .our_company--text p:first-of-type {
   margin-top: 0;

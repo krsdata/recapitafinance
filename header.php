@@ -19,10 +19,7 @@
 							<div class="col-md-3">
 								<div class="topbar--left">
 									<div class="select_language">
-										<button type="button" class="select_language--opener"><i class="select_language--opener_icon icons8-globe-earth"></i>Language</button>
-										<ul class="select_language--list">
-											<li><a href="#">English</a></li> 
-										</ul>
+										 <i class="select_language--opener_icon icons8-globe-earth"></i>CIN : U65999MP2016PTC042062 
 									</div>
 								</div>
 							</div>
@@ -53,7 +50,7 @@
 							<div class="row">
 								<div class="col-lg-2 col-md-12">
 									<div class="header--logo logo">
-										<a href="#"><!-- <img src="assets\images\design\logo-header.png" alt="" style="width:150px;"> -->
+										<a href="http://recapitafinance.com"><!-- <img src="assets\images\design\logo-header.png" alt="" style="width:150px;"> -->
 											<span style="font-size: 24px;"> RecapitaFinance </span>
 
 										</a>
@@ -65,22 +62,23 @@
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-phone"></i>
-													<strong>0 (855) 233-5385</strong>
+													<strong>+91 (992) 009-0401</strong>
 													<span>Monday-Friday, 8am - 8pm</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-message"></i>
-													<strong>info@recapitafinace.com</strong>
+													<strong>ca.amitjain101@gmail.com</strong>
 													<span>Drop us a line anytime!</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-geo-fence"></i>
-													<strong>Stock Building,</strong>
-													<span>Indore MP 452001</span>
+													<strong> Reg. Address,</strong>
+													<span>BHOPAL-462016</span> 
+
 												</div>
 											</div>
 										</div>
@@ -145,26 +143,26 @@
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-phone"></i>
-													<strong>0 (855) 233-5385</strong>
+													<strong>+91 (992) 009-0401</strong>
 													<span>Monday-Friday, 8am - 8pm</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-message"></i>
-													<strong>info@financed.com</strong>
+													<strong>ca.amitjain101@gmail.com</strong>
 													<span>Drop us a line anytime!</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-geo-fence"></i>
-													<strong>Stock Building,</strong>
-													<span>New York, NY 93459</span>
+													<strong>Reg. Address,/strong>
+													<span>BHOPAL-462016</span>
 												</div>
 											</div>
 										</div>
-										<a href="contact_us.htm"><button class="button -blue_light -bordered -menu_size"><span class="button--inner">Get a Quote</span></button></a>
+										<a href="contactus.php"><button class="button -blue_light -bordered -menu_size"><span class="button--inner">Get a Quote</span></button></a>
 									</div>
 								</div>
 							</div>
