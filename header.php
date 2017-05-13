@@ -82,7 +82,7 @@
 												</div>
 											</div>
 										</div>
-										<a href="contact_us.htm"><button class="button -blue_light -bordered -menu_size"><span class="button--inner">Get a Quote</span></button></a>
+										<a href="contactus.php"><button class="button -blue_light -bordered -menu_size"><span class="button--inner">Get a Quote</span></button></a>
 									</div>
 								</div>
 							</div>
