@@ -19,7 +19,7 @@
 							<div class="col-md-3">
 								<div class="topbar--left">
 									<div class="select_language">
-										 <i class="select_language--opener_icon icons8-globe-earth"></i>CIN : U65999MP2016PTC042062 
+										 CIN : U65999MP2016PTC042062 
 									</div>
 								</div>
 							</div>
