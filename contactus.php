@@ -19,8 +19,8 @@
 					<div class="container">
 						<div class="section--header">
 							<h2 class="section--title">Get In Touch!</h2>
-							<p class="section--description">
-								We provide advisory clients with a quality of service we believe no other firm can match. <br>Our client relationships are built on trust and discretion
+							<p class="section--description" style="color: #59bcdb; font-size: 23px;">
+							ReCAPITA FINANCE PRIVATE LIMITED
 							</p>
 						</div>
 						<div class="section--container">
