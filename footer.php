@@ -10,7 +10,7 @@
 									<div class="contact_card">
 										<i style="color:#59bcdb" class="contact_card--icon icons8-phone"></i>
 										<strong class="contact_card--title">Contact Us</strong>
-										<p class="contact_card--text">Feel free to call us on <br> <strong>+91 (992) 009-0401</strong> <br> Monday - Friday, 8am - 7pm</p>
+										<p class="contact_card--text">Feel free to call us on <br> <strong>+91 (798) 711-5101</strong> <br> Monday - Friday, 8am - 7pm</p>
 									<!-- 	<button class="button -blue_light -bordered"><span class="button--inner">Order a Call Back</span></button> -->
 									</div>
 								</div>
@@ -18,7 +18,7 @@
 									<div class="contact_card">
 										<i style="color:#59bcdb" class="contact_card--icon icons8-message"></i>
 										<strong class="contact_card--title">Our Email</strong>
-										<p class="contact_card--text">Drop us a line anytime at <br> <strong><a href="mailto:ca.amitjain101@gmail.com"> ca.amitjain101@gmail.com</a>,</strong> <br> and we’ll get back soon.</p> 
+										<p class="contact_card--text">Drop us a line anytime at <br> <strong><a href="mailto:ca.amitjain101@gmail.com"> recapitafincorp@gmail.com</a>,</strong> <br> and we’ll get back soon.</p> 
 								<!-- 		<button class="button -blue_light -bordered"><span class="button--inner">Start Writing</span></button> -->
 									</div>
 								</div>

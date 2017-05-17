@@ -62,14 +62,14 @@
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-phone"></i>
-													<strong>+91 (992) 009-0401</strong>
+													<strong>+91 (798) 711-5101</strong>
 													<span>Monday-Friday, 8am - 8pm</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-message"></i>
-													<strong>ca.amitjain101@gmail.com</strong>
+													<strong>recapitafincorp@gmail.com</strong>
 													<span>Drop us a line anytime!</span>
 												</div>
 											</div>
@@ -143,14 +143,14 @@
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-phone"></i>
-													<strong>+91 (992) 009-0401</strong>
+													<strong>+91 (798) 711-5101</strong>
 													<span>Monday-Friday, 8am - 8pm</span>
 												</div>
 											</div>
 											<div class="header_contacts--item">
 												<div class="contact_mini">
 													<i style="color:#7c6aa6" class="contact_mini--icon icons8-message"></i>
-													<strong>ca.amitjain101@gmail.com</strong>
+													<strong>recapitafincorp@gmail.com</strong>
 													<span>Drop us a line anytime!</span>
 												</div>
 											</div>
