@@ -44,7 +44,8 @@
 															<h3 class="contact_item--title">Call Us</h3>
 															<p class="contact_item--text">
 																Call us on 
-																<strong>+91 (992) 009-0401
+																<strong>+91 (798) 711-5101
+
 																</strong>
 																<br> Monday - Friday, 8am - 7pm
 															</p>
@@ -55,7 +56,8 @@
 															<i class="contact_item--icon icons8-message"></i>
 															<h3 class="contact_item--title">Drop a Line</h3>
 															<p class="contact_item--text">
-																Drop us mail at <strong>ca.amitjain101@gmail.com</strong>,
+																Drop us mail at <strong><br>recapitafincorp@gmail.com
+</strong>,
 																<br> and we’ll get back soon.
 															</p>
 														</div>
@@ -66,7 +68,7 @@
 															<h3 class="contact_item--title">Visit Us</h3>
 															<p class="contact_item--text">
 																Come visit us at <br><strong> REGD. ADDRESS: <br>47 A - AMALTAS PHASE I, <br>CHUNA BHATTI, KOLAR ROAD,<br> BHOPAL-462016 [M.P.] </strong><br>
-  Tel : (91) 9920090401 <br> Landline: 0755- 2424962																 
+  Tel :+91 (798) 711-5101  <br> Landline: 0755- 2424962																 
 															</p>
 														</div>
 													</li>
